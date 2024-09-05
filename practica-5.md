@@ -1,9 +1,9 @@
 # Practica 5
 ## Preguntas
 #### 1. ¿Qué es Markdown?
-
+Es un **lenguaje** que da **formato** a textos mediante el uso de algunos **caracteres**
 #### 2. ¿Para qué sirve Markdown?
-Es un **lenguaje** que sirve para darle **formato** a textos mediante el uso de algunos **caracteres** que modifican el **texto**
+Ayuda para darle **formato a documentos** de texto mediante un **codigo** y el uso de **caracteres**
 #### 3. ¿Qué es la Terminal de Comandos?
 Es un **interfaz de texto** que permite interactuar con los **archivos y directorios** que hay en la computadora
 #### 4. ¿Para qué sirve la Terminal de Comandos?
