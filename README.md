@@ -11,3 +11,4 @@
 | Practica 4|03/09/2024|
 | [Practica 5](https://github.com/SonocJM/practicas-3dev/blob/main/practica-5.md)|05/09/2024|
 | [Practica 6](https://github.com/SonocJM/practica-6.git)|10/09/2024|
+| [Practica 7](https://github.com/SonocJM/practica-6.git)|17/09/2024|
